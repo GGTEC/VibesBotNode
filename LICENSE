@@ -1,0 +1,138 @@
+LICENÇA PROPRIETÁRIA DO VIBESBOT
+Versão 1.0 — 15 de setembro de 2026
+
+Copyright (c) 2026 GGTECApps. Todos os direitos reservados.
+
+1. OBJETO E TITULARIDADE
+
+Esta licença rege o uso do VibesBot e de seu código-fonte, executáveis,
+documentação e demais materiais próprios fornecidos com o software
+(conjuntamente, "Software"). A GGTECApps é denominada "Licenciante" e a pessoa
+física ou jurídica autorizada a utilizar o Software, "Usuário".
+
+O Software é proprietário, de código fechado, e é licenciado, não vendido.
+Nenhuma disposição transfere ao Usuário a titularidade do Software, de seu
+código-fonte, das marcas ou de outros direitos de propriedade intelectual.
+Todos os direitos não expressamente concedidos permanecem reservados aos
+respectivos titulares.
+
+2. PERMISSÃO LIMITADA DE USO
+
+Mediante obtenção legítima do Software e autorização da Licenciante, o Usuário
+recebe licença limitada, não exclusiva, pessoal ou vinculada à pessoa jurídica
+contratante, intransferível e sem direito de sublicenciamento, para instalar e
+executar o Software nos limites do plano, prazo, contas e dispositivos
+expressamente autorizados na contratação ou em autorização escrita.
+
+É permitido utilizar as funcionalidades do Software em atividades próprias do
+Usuário, inclusive transmissões ao vivo monetizadas e outras atividades
+comerciais legítimas, respeitados os limites contratados. Essa permissão não
+autoriza a comercialização do próprio Software nem de acesso a ele por terceiros.
+
+São permitidas as cópias estritamente necessárias à instalação e execução
+autorizadas e a cópia de salvaguarda admitida pela legislação aplicável. Essas
+cópias devem preservar os avisos de titularidade e permanecer sob controle do
+Usuário, sem disponibilização a terceiros.
+
+3. RESTRIÇÕES
+
+Salvo autorização prévia e expressa, por escrito, da Licenciante ou permissão
+obrigatória da legislação aplicável, é proibido:
+
+a) copiar ou reproduzir o Software, total ou parcialmente, além das hipóteses
+   expressamente permitidas nesta licença;
+b) publicar, compartilhar, distribuir, redistribuir, disponibilizar para download
+   ou hospedar para terceiros o código-fonte, instaladores, executáveis ou outras
+   cópias do Software, gratuitamente ou mediante pagamento;
+c) vender, revender, alugar, ceder, transferir ou sublicenciar o Software, suas
+   licenças ou seu acesso, inclusive como parte de pacotes, serviços de revenda
+   ou ofertas com marca própria;
+d) modificar, adaptar, traduzir o código ou criar obras derivadas do Software,
+   exceto configurações e extensões realizadas pelos mecanismos expressamente
+   disponibilizados e autorizados pela Licenciante;
+e) descompilar, desmontar, realizar engenharia reversa ou tentar obter o
+   código-fonte de componentes proprietários;
+f) contornar, remover ou adulterar controles de autenticação, ativação,
+   assinatura, prazo, quantidade de dispositivos ou outras limitações de licença;
+g) compartilhar, vender ou transferir credenciais, chaves ou contas para permitir
+   uso por pessoas não autorizadas;
+h) remover ou alterar avisos de direitos autorais, titularidade, licença ou marcas,
+   ou apresentar o Software como criação própria ou de terceiros;
+i) incorporar código ou componentes proprietários do Software em outro produto
+   sem autorização expressa da Licenciante.
+
+4. ACESSO AO CÓDIGO-FONTE
+
+Esta licença não concede direito de receber o código-fonte. Se o Usuário tiver
+acesso autorizado ao código-fonte, deverá utilizá-lo exclusivamente para a
+finalidade expressamente autorizada, manter sob sigilo os materiais não públicos
+e impedir o acesso de pessoas não autorizadas.
+
+A entrega de arquivos, o acesso a um repositório ou a disponibilidade técnica de
+um componente não constituem, por si sós, autorização para reutilização,
+modificação, publicação ou redistribuição. Permanecem resguardadas as permissões
+obrigatórias dos termos da plataforma de hospedagem, quando aplicáveis.
+
+5. COMPONENTES DE TERCEIROS E DIREITOS ANTERIORES
+
+Bibliotecas, ferramentas, executáveis, fontes, imagens e demais componentes de
+terceiros permanecem sujeitos às respectivas licenças e avisos de titularidade.
+Esta licença não substitui, restringe nem revoga permissões concedidas por essas
+licenças, inclusive direitos de acesso ao código quando aplicáveis.
+
+As restrições desta licença alcançam somente materiais sobre os quais a
+Licenciante tenha os direitos necessários. Este documento não revoga direitos
+validamente concedidos para versões anteriores sob outras licenças.
+
+6. CONTEÚDO DO USUÁRIO E INTEGRAÇÕES
+
+O Usuário mantém os direitos que possua sobre seus dados, configurações e
+conteúdos. O uso do Software não transfere esses direitos à Licenciante.
+
+O Usuário é responsável por possuir as autorizações necessárias aos conteúdos e
+serviços que utilizar e por observar os termos das plataformas integradas.
+Esta licença não concede direitos sobre marcas, APIs ou conteúdos de terceiros.
+
+7. PRAZO E ENCERRAMENTO
+
+A autorização de uso vigora pelo prazo contratado ou expressamente concedido.
+Seu encerramento, suspensão ou rescisão por descumprimento observará as condições
+contratadas, os deveres de informação e os direitos assegurados pela legislação.
+
+Encerrada a autorização, o Usuário deverá cessar o uso e excluir as cópias do
+Software sob seu controle, ressalvadas as hipóteses de conservação exigidas por
+lei. Esta obrigação não exige a exclusão de dados ou conteúdos próprios do Usuário.
+As obrigações de sigilo e respeito à propriedade intelectual subsistem enquanto
+aplicáveis.
+
+8. GARANTIAS, SUPORTE E RESPONSABILIDADE
+
+O Software será fornecido conforme as funcionalidades e condições expressamente
+ofertadas ou contratadas. Não se promete funcionamento ininterrupto, ausência
+absoluta de falhas ou resultados financeiros específicos.
+
+Prazos de suporte, atualizações e validade técnica da versão devem ser informados
+nos documentos da oferta ou contratação, conforme a legislação aplicável. Esta
+licença não afasta garantias legais, obrigações de suporte, direitos do consumidor
+nem responsabilidades que não possam ser legalmente excluídas ou limitadas.
+
+9. AUTORIZAÇÕES ESPECIAIS E PREVALÊNCIA
+
+Permissões de distribuição, revenda, desenvolvimento ou acesso ao código-fonte
+dependem de instrumento escrito específico firmado pela Licenciante. A aquisição
+de licença de uso comum não concede essas permissões.
+
+Em conflito com avisos genéricos de licença ou termos de uso incluídos na mesma
+versão do Software, este documento prevalece quanto às permissões e restrições
+de propriedade intelectual. Permanecem preservados os direitos legais do Usuário,
+as condições específicas validamente contratadas e as licenças de terceiros.
+
+10. LEGISLAÇÃO APLICÁVEL
+
+Aplica-se a legislação brasileira, especialmente as normas de proteção de
+programas de computador, direitos autorais e, quando cabíveis, defesa do consumidor,
+sem afastar normas obrigatórias de outra jurisdição aplicável ao Usuário.
+
+A eventual invalidade de uma disposição não prejudica as demais, na medida
+permitida por lei. Solicitações de autorização devem ser encaminhadas à
+GGTECApps pelos canais oficiais de atendimento do VibesBot.
